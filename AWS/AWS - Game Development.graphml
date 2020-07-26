@@ -1,0 +1,63 @@
+<ns0:graphml xmlns:ns0="http://graphml.graphdrawing.org/xmlns" xmlns:ns2="http://www.yworks.com/xml/graphml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <ns0:key for="port" id="d0" yfiles.type="portgraphics" />
+  <ns0:key for="port" id="d1" yfiles.type="portgeometry" />
+  <ns0:key for="port" id="d2" yfiles.type="portuserdata" />
+  <ns0:key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4" />
+  <ns0:key attr.name="url" attr.type="string" for="node" id="d5" />
+  <ns0:key attr.name="description" attr.type="string" for="node" id="d6" />
+  <ns0:key for="node" id="d7" yfiles.type="nodegraphics" />
+  <ns0:key for="graphml" id="d8" yfiles.type="resources" />
+  <ns0:key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9" />
+  <ns0:key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10" />
+  <ns0:key attr.name="url" attr.type="string" for="edge" id="d11" />
+  <ns0:key attr.name="description" attr.type="string" for="edge" id="d12" />
+  <ns0:key for="edge" id="d13" yfiles.type="edgegraphics" />
+  <ns0:graph edgedefault="directed" id="G">
+    <ns0:node id="n0">
+      <ns0:data key="d3">fb84fa4b-c18c-4664-8946-76e77f80a984</ns0:data>
+      <ns0:data key="d4">GameDevelopment_AmazonGameLift</ns0:data>
+      <ns0:data key="d6" />
+      <ns0:data key="d7">
+        <ns2:SVGNode>
+          <ns2:Geometry height="60" width="60" x="0" y="0" />
+          <ns2:Fill color="#CCCCFF" transparent="false" />
+          <ns2:BorderStyle color="#000000" type="line" width="1.0" />
+          <ns2:NodeLabel alignment="center" autoSizePolicy="content"
+              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
+              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
+              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
+              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0" />
+          <ns2:SVGNodeProperties usingVisualBounds="true" />
+          <ns2:SVGModel svgBoundsPolicy="0">
+            <ns2:SVGContent refid="0" />
+          </ns2:SVGModel>
+        </ns2:SVGNode>
+      </ns0:data>
+    </ns0:node>
+  </ns0:graph>
+  <ns0:data key="d8">
+    <ns2:Resources>
+      <ns2:Resource id="0">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
+  &lt;title&gt;GameDevelopment&lt;/title&gt;
+  &lt;g&gt;
+    &lt;polygon points="56 36 68.14 34.06 68.14 18.04 56 21.93 56 36" fill="#692f56"/&gt;
+    &lt;polygon points="83.93 57.32 49.94 62.49 49.94 37.66 83.93 42.78 83.93 57.32" fill="#ad688b"/&gt;
+    &lt;polygon points="62.35 32.75 49.94 29.66 49.94 9 62.35 15.2 62.35 32.75" fill="#ad688b"/&gt;
+    &lt;polygon points="62.46 67.25 50.06 70.33 50.06 91 62.46 84.8 62.46 67.25" fill="#ad688b"/&gt;
+    &lt;polygon points="75.77 35.96 68.03 34.02 68.03 18.04 75.77 21.91 75.77 35.96" fill="#ad688b"/&gt;
+    &lt;polygon points="75.89 35.96 64.11 37.49 56 36 68.25 34.04 75.89 35.96" fill="#512843"/&gt;
+    &lt;polygon points="44 36 31.86 34.06 31.86 18.04 44 21.93 44 36" fill="#ad688b"/&gt;
+    &lt;polygon points="16.07 57.32 50.06 62.49 50.06 37.66 16.07 42.78 16.07 57.32" fill="#692f56"/&gt;
+    &lt;polygon points="37.65 32.75 50.06 29.66 50.06 9 37.65 15.2 37.65 32.75" fill="#692f56"/&gt;
+    &lt;polygon points="37.65 67.25 50.06 70.33 50.06 91 37.65 84.8 37.65 67.25" fill="#692f56"/&gt;
+    &lt;polygon points="24.23 35.96 31.97 34.02 31.97 18.04 24.23 21.91 24.23 35.96" fill="#692f56"/&gt;
+    &lt;polygon points="24.23 35.96 36 37.49 44.11 36 31.86 34.04 24.23 35.96" fill="#512843"/&gt;
+    &lt;polygon points="62.46 32.75 50.06 35.01 37.65 32.75 50.06 29.66 62.46 32.75" fill="#512843"/&gt;
+    &lt;polygon points="62.46 67.25 50.06 64.99 37.65 67.25 50.06 70.32 62.46 67.25" fill="#cfb2c1"/&gt;
+  &lt;/g&gt;
+&lt;/svg&gt;
+</ns2:Resource>
+    </ns2:Resources>
+  </ns0:data>
+</ns0:graphml>
